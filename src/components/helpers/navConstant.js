@@ -1,3 +1,18 @@
+const aboutUsMenu = [
+  {
+    id: 0,
+    label: "News and Updates",
+  },
+  {
+    id: 1,
+    label: "Meet The Team",
+  },
+  {
+    id: 2,
+    label: "Advisory Board",
+  },
+];
+
 export const navMainLinks = [
   {
     id: 0,
@@ -39,20 +54,5 @@ export const navMainLinks = [
     li: "Contact Us",
     href: "/contact-us",
     drop: "",
-  },
-];
-
-const aboutUsMenu = [
-  {
-    id: 0,
-    label: "News and Updates",
-  },
-  {
-    id: 1,
-    label: "Meet The Team",
-  },
-  {
-    id: 2,
-    label: "Advisory Board",
   },
 ];

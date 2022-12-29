@@ -1,0 +1,20 @@
+.width-log {
+  padding: 0;
+}
+
+.width-log img {
+  width: 250px;
+  margin-bottom: 20px;
+}
+
+/* behavior of a table cell */
+.table-cell {
+  display: table-cell;
+  vertical-align: middle;
+  float: none;
+}
+
+.lazyloaded {
+  opacity: 1;
+  transition: opacity 400ms ease 0s;
+}
